@@ -17,4 +17,4 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RobiNN1)
 
-If any of my open source projects have helped you, consider sponsoring me. Via GitHub sponsors or [PayPal](https://www.paypal.me/robertkelcak)
+If any of my open source projects have helped you, consider sponsoring me: [PayPal](https://www.paypal.me/robertkelcak).
